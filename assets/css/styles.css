@@ -119,3 +119,31 @@ body{
     height: 200px;
     width: 400px;
 }
+
+.container {
+    background: white;
+    border-radius: 10px;
+    padding: 20px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    text-align: center;
+}
+.question {
+    font-size: 20px;
+    margin-bottom: 20px;
+}
+button {
+    margin: 5px;
+    padding: 10px 15px;
+    border: none;
+    border-radius: 5px;
+    background-color: #007bff;
+    color: white;
+    cursor: pointer;
+}
+button:hover {
+    background-color: #0056b3;
+}
+.result {
+    font-size: 18px;
+    margin-top: 20px;
+}
