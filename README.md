@@ -9,7 +9,7 @@ O jogo tem o foco em ser um quiz distrativo para todos os públicos, ao mesmo te
   ### Por que o nome Math Quiz?
   - O nome foi escolhido por causa do objetivo e modo de jogo, sendo um quiz, apartir disso foi colocado palavra math (matemática em inglês), para dar um ar mais "chique".
 
-  ## Por que esse tema?
+  ### Por que esse tema?
   - 
 
 </div>
